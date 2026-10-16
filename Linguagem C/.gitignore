@@ -1,0 +1,39 @@
+
+# =====================================
+# ALGORITMOS E LOGICA DE PROGRAMACAO
+# =====================================
+
+# Executaveis e arquivos compilados
+*.exe
+*.o
+*.obj
+*.out
+*.class
+*.dll
+
+# Pastas de compilacao
+bin/
+obj/
+build/
+Debug/
+Release/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Java
+target/
+
+# C# / .NET
+.vs/
+
+# Arquivos temporarios
+*.tmp
+*.log
+*~
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
