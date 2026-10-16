@@ -9,7 +9,7 @@
             "program": "${fileDirname}/${fileBasenameNoExtension}.exe",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "C:/Users/alexa/Desktop/PROJETOS CURSO/Algoritmos e Lógicas/Linguagem C",
+            "cwd": "${workspaceFolder}",
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
